@@ -1,5 +1,7 @@
 # 1- Añadir Adaptador Puente (Bridge) en VirtualBox
 
+**SÍ, NO HAY 3 (BARRIO SESAMO MOMENTO)**
+
 ![alt text](./img/image0.png)
 
 # 2- Instalar Samba
